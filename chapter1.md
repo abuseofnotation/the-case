@@ -46,9 +46,9 @@ She looked at him again, just to show him her angry grimace: 'I know what are yo
 
 They spend the next minutes in silence.
 
-'OK.' Vince said finally. 'I agree with you. But... After what happened last week, I feel that we should be extra cautious. Still, the robbery of the public vault is a real case and, so keep on digging into that ,and I will get someone to come with me to Den's apartment and try to see if there is anything there.'
+'OK.' Vince said. 'I agree with you. But... After what happened last week, I feel that we should be extra cautious. Still, the robbery of the public vault is a real case, so keep on digging into that. And I will get someone to come with me to Den's apartment and try to see if there is anything there.'
 
-'Good luck with that.' Jane said. Vince spent a second trying to determine if she was being ironic ('You fool! of course she was').
+'Good luck with that.' Jane said. Vince spent a second trying to determine if she was being ironic ('You fool! Of course she was').
 
 Boffins
 -------
@@ -81,9 +81,9 @@ Robert said nothing.
 
 'No, I don't want a raise.' Robert responded immediately.
 
-At first Vince thought that he did not heard him correctly, but then he looked more carefully at his old colleague. His cheeks were all wrinkled, he wore big glasses, and  behind them, his eyes looked jaded and tiresome.
+Vince thought that he did not heard him correctly, but then he looked more carefully at his old colleague. His cheeks were all wrinkled, he wore big glasses, and  behind them, his eyes looked jaded and tiresome.
 
-'I am *sixty six years old*, Vince.', he said. 'I had even quit for a few years when you killed my department. I went back just because I have too many friends here. I want to help you. But to deal with corpses? To go and go through the tracks of people who are capable of killing me? I am sorry but if that is what's required I will be forced to leave.'
+'I am *sixty six years old*, Vince.', he said. 'I had even quit for a year when you killed my department. I went back just because I have too many friends here. I want to help you. But to deal with corpses? To go and go through the tracks of people who are capable of killing me? I am sorry but if that is what's required I will be forced to leave.'
 
 'Alright. Pack up your stuff then.' Vince said.
 
@@ -96,7 +96,7 @@ Vince got into his car and heard it pronounce the address of the incident - it w
 
 "Her name is Den Lee. Born in an upper-class family in Japan. Her parents are still alive. She also has a sister."
 
-"Skip that". - Vince said.
+"Skip that.", Vince said.
 
 "Alrighty... She lives in London for about five years. She lives alone. Does not work full-time. Makes her living by selling handcrafted wooden dolls. The so called "Kokeshi" are a traditional Japanese dolls which originate from the northern part of the country. They are characterized by the use of floral motives and...
 
