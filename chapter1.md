@@ -10,7 +10,7 @@ She picked up the receiver, thinking about the end of her shift. Working in "112
 
 'Your name please?' she said.
 
-'助けて!' The answer came with a few seconds delay and it was in a language that she did not understand. 
+'助けて!' The answer came with a second delay and it was in a language that she did not understand. 
 
 'Can you speak in English please?' She said.  
 But the woman at the other end did not fulfil her request, which was unnerving because she seemed genuinely scared.
@@ -28,7 +28,7 @@ The office of Jane Marthello was a huge dusty room, which also served as a wareh
 
 'Hello my friend,' she said to her, instantly disposing of the formal manner with whivh he usually conversed with his colleagues. 'I think he might have a problem.'
 
-She turned her head away from her screen and towards him, looked at him for a few seconds and then turned again to the screen.
+She turned her head away from her screen and towards him, looked at him for a moment and then turned again to the screen.
 
 'We do.' she said. 'We have had it since last week, when stuff started happening...'
 
@@ -46,9 +46,9 @@ She looked at him again, just to show him her angry grimace: 'I know what are yo
 
 They spend the next minutes in silence.
 
-'OK.' Vince said finally. 'So in principle I agree with you. But... After what happened last week, I feel that we should be extra cautious. Still, the robbery of the city treasury is a real case and so keep on digging into that and I will get someone to come with me to Den's apartment and try to see if there is anything there.'
+'OK.' Vince said finally. 'I agree with you. But... After what happened last week, I feel that we should be extra cautious. Still, the robbery of the public vault is a real case and, so keep on digging into that ,and I will get someone to come with me to Den's apartment and try to see if there is anything there.'
 
-'Good luck with that.' Jane said. Vince spent a few seconds trying to determine if she was being ironic ('You fool! of course she was').
+'Good luck with that.' Jane said. Vince spent a second trying to determine if she was being ironic ('You fool! of course she was').
 
 Boffins
 -------
@@ -59,7 +59,7 @@ Most of them were programmers.
 
 When he started working at the Yard, the IT department was situated in one small room in the basement of the building where three boys were supporting a simple document-maintenance system. From then on it grew steadily and over the years it reached the point were everything was IT, everything was maintenance and the whole workforce of Scotland Yard consisted of about ten interns who were mostly doing the arrests and about 350 boffins (that is how they called all techies) who spoke only between themselves, had lunch in front of their computers and had were only indirectly related to the process of crime-solving. 
 
-That last proposition could be confirmed by the calmness with which they reacted to some recent events: last week there were a robbery worth millions of pounds and a few injured victims but all they did was involve him in an endless argument about whether the technical issue because of which the criminal escaped was caused by their department or by IBM, without mentioning a word about the crime itself. But (he realized it just now) this was normal. Because this was *their* part. Their job. Yes someone did get away and this surely was giving some of them the creeps, but at the end of the day they weren't there to solve crimes. They were there to support the system that did it.
+That last proposition was confirmed by the calmness with which they reacted to some recent events: last week there were a robbery worth millions of pounds and a few injured victims but all they did was involve him in an endless argument about whether the technical issue because of which the criminal escaped was caused by their department or by IBM, without mentioning a word about the crime itself. But (he realized it just now) this was normal. Because this was *their* part. Their job. Yes someone did get away and this surely was giving some of them the creeps, but at the end of the day they weren't there to solve crimes. They were there to support the system that did it.
 
 ---
 
