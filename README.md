@@ -1,3 +1,3 @@
-# My Awesome Book
+# The Case
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+In a future rhere the police forces rely on a sophisticated alghorithm for analysing and solving crimes, the famous crime fighting institution "Scotland Yard" is reduced to a simple IT organization. Everything works great, until a couple of very elaborately-planned crimes challenge the status quo and force its SEO Vincent Blinkhorn, to seek help from places he would not otherwise consider...
