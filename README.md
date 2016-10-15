@@ -1,4 +1,4 @@
-# The Case
+# The Case of Den Lee and the Japanese Dolls
 
 *This novella is work in progress. New chapters will be published regularly. Go [here](https://www.gitbook.com/book/boris-marinov/the-case/details) to subscribe for updates and view discussions*
 
