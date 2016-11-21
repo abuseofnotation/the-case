@@ -1,6 +1,12 @@
-# The Case
+# The Case of Den Lee and the Japanese Dolls
 
-*This novella is work in progress. New chapters will be published regularly. Go [here](https://www.gitbook.com/book/boris-marinov/the-case/details) to subscribe for updates and view discussions*
+*This novella is work in progress. New chapters will be published regularly.*
 
-In a future where the police forces rely on a sophisticated algorithm for analyzing and solving crimes, the famous crime fighting institution "Scotland Yard" is reduced to a simple IT organization. Everything works great, until a couple of elaborately-planned crimes challenge the status-quo and force its CEO Vincent Blinkhorn, to seek help from places he would not otherwise consider.
+In a future where crimes are usually rare and predictable and the police forces rely on a sophisticated algorithms for crime investigation, the famous institution of Scotland Yard is reduced to a simple IT organization.
+
+Everything works great, until a couple of elaborate crimes challenge prove impossible to solve by the system and force the Yard's CEO, Vincent Blinkhorn, to seek help from places that he wouldn't otherwise consider.
+
+Together with his partner, Vince recruits Ayer Cadman - a lone Low Tek, from the other side of town, who had spend his life practicing the lost art of crime-solving. And it looks like Ayer is onto something.
+
+Is true that, like everybody says, that a murder is something that cannot happen in this day and age? Or does the fate of the whole city rest on the shoulders of one shy and awkward-looking boy, whom no one knows anything about?
 
