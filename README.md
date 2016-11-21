@@ -1,6 +1,9 @@
 # The Case of Den Lee and the Japanese Dolls
 
-*This novella is work in progress. New chapters will be published regularly. Consider[ buying the book on Leanpub](https://leanpub.com/thecaseofdenleeandthejapanesedolls).
+*This novella is work in progress. New chapters will be published regularly.
 
-In a future where the police forces rely on a sophisticated algorithm for analyzing and solving crimes, the famous crime fighting institution "Scotland Yard" is reduced to a simple IT organization. Everything works great, until a couple of elaborately-planned crimes challenge the status-quo and force its CEO Vincent Blinkhorn, to seek help from places he would not otherwise consider.
+In a future where the police forces rely on a sophisticated algorithms for maintaining public safety, the famous institution of Scotland Yard is reduced to a simple IT organization. Everything works great, until a couple of very elaborate crimes challenge the status quo and force the Yard's CEO, Vincent Blinkhorn, to seek help from places that he wouldn't otherwise consider.
+
+Together with his partner, Vince recruits Ayer Cadman - a lone Low Tek, from the other side of town, who had spend his life practicing the lost art of crime-solving. Ayer might be just what Scotland Yard needs. But does the Ayer need the Scotland Yard?
+
 
