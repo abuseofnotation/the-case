@@ -6,3 +6,4 @@
 * [Chapter 3: Hostility and Understanding](03.md)
 * [Chapter 4: The Unexpected Witness](04.md)
 * [Chapter 5: The Blind Spot](05.md)
+* [Chapter 6: Behind the Facade](06.md)
