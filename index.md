@@ -1,9 +1,7 @@
 The Case of Den Lee and the Japanese Dolls: A novel
 ===
 
-The case is a sci-fi detective novel, focusing on the human aspects of technology. It stated as a "Sherlock Holmes" meets "1984" mashup, but it evolved into something much more. You can read it for free here. 
-
-I can guarantee you one thing - it will be weird.
+The case is a sci-fi detective novel, focusing on the human aspects of technology. It stated as a "Sherlock Holmes" meets "1984" mashup, but it evolved into something much more. You can read it for free here. I don't know what you'll make of it, but I can guarantee you one thing - it will be weird.
 
 To find out more about it, you can also read the [blog post I wrote about writing this novel, called "The case of 'The case'"](/the-case-of-the-case).
 
