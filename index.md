@@ -32,11 +32,9 @@ Contents
 Download
 ===
 
-[epub](the-case.epub)
----
+- [epub](the-case.epub)
 
-[txt](the-case.txt)
----
+- [txt](the-case.txt)
 
 > If you find some errors in this novel, or you want to tell me how great it is, you can [mail me](mailto:marinovboris@gmail.com).
 
