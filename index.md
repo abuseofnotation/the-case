@@ -5,7 +5,7 @@ The case is a sci-fi detective novel, focusing on the human aspects of technolog
 
 I can guarantee you one thing - it will be weird.
 
-To find out more about it, you can also read the [blog post I wrote about writing this novel, called "The case of 'The case'"](the-case-of-the-case).
+To find out more about it, you can also read the [blog post I wrote about writing this novel, called "The case of 'The case'"](/the-case-of-the-case).
 
 > Vince sat next to Ayer, who was standing with his face buried in his hands as if he was about to burst into tears, and waited for him to come down before starting to speak: "Look, Ayer, here's the deal - we really like some of your ideas. And we really want to help you. But in order to do that we have to be assured that you know what you are doing. And at the moment we are not, and cannot be, simply because we don't know anything about you. Because, Ayer, as hard it is for me to admit it, your remark was absolutely correct - the data from your file tells us nothing about who you are and how the hell have you gained the experience that you have. So currently your persona constitutes one more unknown term in our equation, and believe me when I say that we have enough of those already."
 >
@@ -31,8 +31,8 @@ Contents
 
 Download
 ===
-- [epub](the-case.epub)
-- [txt](the-case.txt)
+- [epub](the-case-epub.epub)
+- [txt](the-case-txt.txt)
 
 > If you find some errors in this novel, or you want to tell me how great it is, you can [mail me](mailto:marinovboris@gmail.com).
 
